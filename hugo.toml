@@ -2,3 +2,30 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 disableKinds = ['taxonomy', 'term']
+defaultColor = "dark"
+
+[params.author]
+  avatar = "natsu.png"
+  intro = "Deva's Notes"
+  name = "Deva Pramod"
+  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
+
+
+  [menu]
+  [[menu.main]]
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
+  [[menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/about/'
+    weight = 30

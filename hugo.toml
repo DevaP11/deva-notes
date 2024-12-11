@@ -11,10 +11,8 @@ defaultColor = "dark"
   description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
 
 
-  [menu]
+[menu]
   [[menu.main]]
-    # The page reference (pageRef) is useful for menu highlighting
-    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
     pageRef="/"
     name = 'Home'
     url = '/'
@@ -29,3 +27,10 @@ defaultColor = "dark"
     name = 'About'
     url = '/about/'
     weight = 30
+
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/DevaP11"
+[[params.socialIcons]]
+    name = "linkedin"
+    url = "linkedin.com/in/deva-pramod-3200bb216"

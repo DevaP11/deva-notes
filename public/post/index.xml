@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Awesome Hugo blog</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Awesome Hugo blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moral Cartographies in Dialogue : A Comprehensive Exploration of ‘In Bruges’</title>
+      <link>http://localhost:1313/post/in-bruges/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/in-bruges/</guid>
+      
+      <description>&lt;p&gt;Created: November 28, 2024 1:57 AM&lt;/p&gt;
+&lt;h2 id=&#34;preface-navigating-the-philosophical-landscape&#34;&gt;Preface: Navigating the Philosophical Landscape&lt;/h2&gt;
+&lt;p&gt;Martin McDonagh&amp;rsquo;s &amp;ldquo;In Bruges&amp;rdquo; emerges as far more than a dark comedy or a crime narrative—it is a profound philosophical text, a complex meditation on the most fundamental questions of human existence. This exhaustive analysis seeks to unravel the intricate philosophical threads that weave through the film&amp;rsquo;s narrative, transforming its seemingly simple premise into a rich tapestry of moral inquiry.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

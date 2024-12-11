@@ -1,10 +1,9 @@
 +++
 title = "Moral Cartographies in Dialogue : A Comprehensive Exploration of ‘In Bruges’"
-date = 2024-02-02T04:14:54-08:00
+date = 2024-11-28
 draft = false
 weight = 10
-[params]
-  author = 'Deva Pramod'
+tags = ['blog']
 +++
 
 Created: November 28, 2024 1:57 AM

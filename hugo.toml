@@ -34,3 +34,6 @@ defaultColor = "dark"
 [[params.socialIcons]]
     name = "linkedin"
     url = "linkedin.com/in/deva-pramod-3200bb216"
+
+[params]
+    pageFind = true

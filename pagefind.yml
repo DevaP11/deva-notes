@@ -1,0 +1,7 @@
+# pagefind.yml
+verbose: true
+site: public
+output: public/pagefind
+exclude_selectors:
+  - '.nav'
+  - 'footer'

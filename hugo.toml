@@ -33,7 +33,7 @@ defaultColor = "dark"
     url = "https://github.com/DevaP11"
 [[params.socialIcons]]
     name = "linkedin"
-    url = "linkedin.com/in/deva-pramod-3200bb216"
+    url = "https://linkedin.com/in/deva-pramod-3200bb216"
 
 [params]
     pageFind = true

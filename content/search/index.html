@@ -1,0 +1,22 @@
+<div>
+    <h1>Search the Site</h1>
+    <input type="text" id="search" name="q" placeholder="Enter search terms...">
+    <div id="results"></div>
+
+    <script type="module">
+        import { PagefindUI } from 'https://cdn.jsdelivr.net/npm/@pagefind/default-ui/dist/pagefind-ui.js';
+
+        window.addEventListener('DOMContentLoaded', (event) => {
+          new PagefindUI({
+              element: "#results",
+              inputElement: "#search",
+              showSubResults: true,
+              translations: {
+                  placeholder: "Search the site...",
+                  zero_results: "No results found",
+                  many_results: "Found {total} results"
+              }
+          });
+        });
+    </script>
+</div>

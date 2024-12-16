@@ -24,8 +24,8 @@ defaultColor = "dark"
     weight = 20
   [[menu.main]]
     pageRef="about"
-    name = 'About'
-    url = '/about/'
+    name = 'Search'
+    url = '/search/'
     weight = 30
 
 [[params.socialIcons]]
